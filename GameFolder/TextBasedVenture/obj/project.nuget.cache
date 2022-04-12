@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2ZToYcc/YO5+xgERXWEOdobK9G2kuZWSs17rRpT7uv8rJ6N3Z0UwWJ0XNWLLZ5DXAoU4iMrE5/AQDv3kwNvnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jacob\\Documents\\DreamScape\\GameFolder\\TextBasedVenture\\DungeonGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
